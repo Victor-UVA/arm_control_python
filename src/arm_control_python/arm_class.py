@@ -14,6 +14,10 @@ import threading
 import yaml
 import rospkg
 
+# TODO: Client server architecture
+# TODO: User set frequency
+# TODO: Velocity control and switching between position and velocity
+
 
 class Arm:
     def __init__(self, config_file_name: str, is_full_path_to_file=False):
