@@ -17,6 +17,7 @@ import rospkg
 # TODO: Client server architecture
 # TODO: User set frequency
 # TODO: Velocity control and switching between position and velocity
+# TODO: Make public and private functions
 
 
 class Arm:
@@ -157,6 +158,7 @@ class Arm:
         point.time_from_start = rospy.Duration(max(weight, 0.15))
         self.angular_pose_pub.publish(msg)
 
+    # Doesn't work
     def send_joint_velocity(self, elbow=0.0, lift=0.0, pan=0.0, wrist1=0.0, wrist2=0.0, wrist3=0.0):
         self.listen_to_rik = False
         msg = JointTrajectory()
