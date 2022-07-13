@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hudson/catkin_ws/src/arm_control/install/setup.sh

@@ -1,0 +1,12 @@
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./local_setup.sh
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./_setup_util.py
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./local_setup.bash
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./setup.sh
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./setup.bash
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./setup.zsh
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./local_setup.zsh
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./env.sh
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/./cmake.lock
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/hudson/catkin_ws/src/arm_control/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

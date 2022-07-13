@@ -1,0 +1,6 @@
+devel_space: /home/hudson/catkin_ws/src/arm_control/devel
+install: false
+install_space: /home/hudson/catkin_ws/src/arm_control/install
+profile: default
+source_space: /home/hudson/catkin_ws/src/arm_control/src
+workspace: /home/hudson/catkin_ws/src/arm_control
